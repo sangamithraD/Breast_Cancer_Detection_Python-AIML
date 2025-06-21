@@ -69,7 +69,7 @@ Intern @ [SystemTron](https://www.systemtron.in)
 
 - 🔗 [Project Notebook on Colab](#) https://colab.research.google.com/drive/1BqDnZELa_k_7D6q-4-T-COWVhpkV1b8_#scrollTo=fHqPXZ-JnfyC
 - 🔗 [LinkedIn Project Post](#) 
-
+https://www.linkedin.com/posts/sangamithra-d-8a4092301_machinelearning-breastcancerdetection-python-activity-7342192020620259328-K8uP?utm_source=share&utm_medium=member_android&rcm=ACoAAE0Te3wBDPpSmrzX8PUb8qeOgFjMumrLltk
 ---
 
 ## 📬 Contact
